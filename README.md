@@ -46,9 +46,17 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2023-11-29 at 8 51 56 AM](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/6fe17670-832a-4294-ad22-0e848db77d52)
+![WhatsApp Image 2023-11-29 at 8 51 58 AM](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/2856700a-f433-41d2-8e55-0b8b092ed415)
+![WhatsApp Image 2023-11-29 at 8 51 58 AM (1)](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/079ca7fe-967c-4e25-a639-6780256f99c9)
+![WhatsApp Image 2023-11-29 at 9 16 51 AM](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/606aa59c-7fe4-4a03-b2ee-6751031cc134)
+![WhatsApp Image 2023-11-29 at 8 51 59 AM (3)](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/838c32b7-52ff-4da6-85bd-ff5a16943b66)
+![WhatsApp Image 2023-11-29 at 8 51 59 AM (4)](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/164fb813-6ca0-4724-8c36-12bee034ac8e)
+![WhatsApp Image 2023-11-29 at 8 51 59 AM (5)](https://github.com/Nishanth-018/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149347651/0ab6ec76-0b20-4164-bc3c-b7ff443bb4a4)
 
-### Name:
-### Register Number:
+
+### Name:Nishanth J
+### Register Number:23007929
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
